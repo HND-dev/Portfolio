@@ -1,18 +1,18 @@
 @font-face{
     font-family: "Anton-Regular";
-    src : url("./Assets/Font/Anton-Regular.ttf");
+    src : url("./assets/font/Anton-Regular.ttf");
 }
 @font-face{
     font-family: "Teko-Regular";
-    src : url("./Assets/Font/Teko-Regular.ttf");
+    src : url("./assets/font/Teko-Regular.ttf");
 }
 @font-face{
     font-family: "Poppins-Bold";
-    src : url("./Assets/Font/Poppins-Bold.ttf");
+    src : url("./assets/font/Poppins-Bold.ttf");
 }
 @font-face{
     font-family: "Poppins-Regular";
-    src : url("./Assets/Font/Poppins-Regular.ttf");
+    src : url("./assets/font/Poppins-Regular.ttf");
 }
 
 @keyframes loading-anim{
