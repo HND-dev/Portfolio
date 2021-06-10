@@ -1,18 +1,18 @@
 @font-face{
     font-family: "Anton-Regular";
-    src : url("./assets/font/Anton-Regular.ttf");
+    src : url("../Portfolio/assets/font/Anton-Regular.ttf");
 }
 @font-face{
     font-family: "Teko-Regular";
-    src : url("./assets/font/Teko-Regular.ttf");
+    src : url("../Portfolio/assets/font/Teko-Regular.ttf");
 }
 @font-face{
     font-family: "Poppins-Bold";
-    src : url("./assets/font/PoppinsB.ttf");
+    src : url("../Portfolio/assets/font/PoppinsB.ttf");
 }
 @font-face{
     font-family: "Poppins-Regular";
-    src : url("./assets/font/Poppins.ttf");
+    src : url("../Portfolio/assets/font/Poppins.ttf");
 }
 
 @keyframes loading-anim{
@@ -62,7 +62,7 @@ header{
     box-sizing: inherit;
 }
 .main_title{
-    height:100%;
+    height: 5.5em;
     width: 5.5em;
 }
 
