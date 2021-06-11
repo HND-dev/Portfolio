@@ -203,6 +203,24 @@ header{
     text-align: center;
     padding: 70px 45px;
     transition: 0.3s;
+
+}
+.skill-column p{
+    color: #10375d;
+    font-size: 1em;
+
+}
+
+.skill-column-subtitle{
+    font-family: "Poppins-Regular";
+}
+
+.skill-column ul{
+    list-style-type: none;
+    padding: 0;
+    color: #10375d;
+    font-size: 1.2em;
+
 }
 
 .skill-column:hover{
@@ -353,6 +371,20 @@ header{
     transition: 0.3s;
 }
 
+#project-section .box-grid-centered{
+    margin-top: 5rem;
+}
+
+#project-section .row-column{
+    position: relative;
+}
+
+#project-section .row-column i{
+    position: absolute;
+    top: -5%;
+    right: 48%;
+}
+
 #project-section .row-column h1{
     font-size: 2.5em;
 }
@@ -360,6 +392,7 @@ header{
 #project-section .row-column p{
     font-size: 2em;
 }
+
 
 footer{
     padding-top: 9rem;
@@ -372,9 +405,6 @@ footer{
     color: #F8F1E5;
 }
 
-#top-footer-content{
-    
-}
 
 #top-footer-content .img-wrapper{
     width: 100px;
